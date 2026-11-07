@@ -1,0 +1,7 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.elnemer.islamic1000</groupId>
+  <artifactId>hijri-java-sundial-mizwalah-sim</artifactId>
+  <version>1.0.0</version>
+  <name>Classical Islamic Horizontal Sundial (Mizwalah) Gnomonic Projection Engine</name>
+</project>
